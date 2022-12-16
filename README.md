@@ -139,5 +139,5 @@ julien@ubuntu:~/monty$
 
 ### Authors :black_nib:
 
-* [Abiodun Gafar Shittu](https://github.com/Abiodun-Shittu/)
-* [Ayomide Ayodele-Soyebo](https://github.com/AyomideA-S/)
+* [Ogunjobi Moshood](https://https://github.com/Proftoa/)
+* [Vimbai Mapfumo](https://https://github.com/T2085371P/)
